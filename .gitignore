@@ -27,4 +27,4 @@ phpunit.phar
 /phpunit.xml
 
 /runtime
-/config/db.php
+#/config/db-local.php
